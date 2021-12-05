@@ -1,0 +1,15 @@
+table, th {
+    border: 1px solid black
+}
+
+
+.grid-container {
+    display: grid;
+    grid-template-rows: 100px 200px;
+}
+
+Body {
+    font-display: Arial;
+    color: crimson;
+    padding-left: 2em;
+}
