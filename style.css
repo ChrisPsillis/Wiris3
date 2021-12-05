@@ -10,6 +10,18 @@ table, th {
 
 Body {
     font-display: Arial;
-    color: crimson;
+    color: rgb(230, 134, 153);
     padding-left: 2em;
+    background-color: rgb(180, 226, 161);
+}
+
+h1 {
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 300;
+    color:darkturquoise;
+}
+
+div {
+    background-color: floralwhite;
 }
